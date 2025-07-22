@@ -19,5 +19,5 @@ pagination.pagerSize = 5
     copyright = ""
 
     [languages.en.params.logo]
-      logoText = "Водолазский Борис Александрович"
+      logoText = "Водолазский Борис"
       logoHomeLink = "/"
