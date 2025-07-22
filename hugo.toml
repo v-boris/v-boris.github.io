@@ -1,3 +1,23 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://v-boris.github.io"
+languageCode = "en-us"
+theme = "re-terminal"
+pagination.pagerSize = 5
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "orange"
+  showMenuItems = 0
+  fullWidthTheme = false
+  centerTheme = true
+  readingTime = false
+  showLastUpdated = false
+
+[languages]
+  [languages.en.params]
+    title = "Vodolazskiy Boris CV"
+    keywords = ""
+    copyright = ""
+
+    [languages.en.params.logo]
+      logoText = "Водолазский Борис Александрович"
+      logoHomeLink = "/"
