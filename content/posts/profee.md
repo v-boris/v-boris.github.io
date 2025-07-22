@@ -15,7 +15,8 @@ color = "" #color from the theme settings
 
 ## DevOps/Linux Engineer
 
-[profee.com](https://profee.com)  
+[profee.com](https://profee.com)
+
 В компании Profee я занимаюсь несколькими направлениями, это Инфраструктура(как Linux инженер) и сопровождение продуктовой команды(как DevOps инженер).
 - Ежедневно я управляю инфраструктурой(cloud/on-prem) с помощью Ansible и Terraform, автоматизирую различные сценарии используя CI инструменты.  
 - Помогаю новоиспеченной команде DWH интегрировать свои инструменты(Airflow/dbt) в нашу инфраструктуру.  
